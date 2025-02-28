@@ -8,5 +8,6 @@ int main(int*argc,int *argv){
     }else{
         printf("%d %d",argv[0],argv[1]);
     }
+    printf("added new print statement");
     return 0;
 }
